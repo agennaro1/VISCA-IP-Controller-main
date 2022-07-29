@@ -1,0 +1,57 @@
+{"CAMERAS": [   
+    {
+      "camera_IP_0": "10.50.2.142",
+      "camera_Port_0": "52381",
+      "init-param": 
+      
+      {
+        "Iris_set": "81 01 04 0B 00 FF",
+        "Gain_set": "81 01 04 0C 00 FF",
+        "Black_set": "81 01 7E 04 15 00 FF'",
+        "Shutter_set": "81 01 04 0A 00 FF",
+        "R_GAIN_set":  "81 01 04 03 00 FF",
+        "B_GAIN_set": "81 01 04 04 00 FF",
+        "Hue_set": "81 01 7E 01 2E 00 00 FF",
+        "Saturation_set ": "81 01 04 09 00 FF",
+        "COLOR_PHASE_set": "81 01 04 0F 00 FF",
+        "R_G_set": "81 09 7E 01 7A 06 03 FF",
+        "R_B_set": "81 01 7E 01 7B 06 03 FF",
+        "G_R_set": "81 01 7E 01 7C 06 03 FF",
+        "G_B_set": "81 01 7E 01 7D 06 03 FF",
+        "B_R_set": "81 01 7E 01 7E 06 03 FF",
+        "B_G_set": "81 01 7E 01 7F 06 03 FF",
+        "GAMMA_MODE_set ": "81 01 04 5B 00 FF"
+        
+      }
+    
+    },
+
+    {
+      "camera_IP_1": "10.50.2.143",
+      "camera_Port_1": "52381",
+      "init-param":
+      
+      {
+        "Iris_set": "81 01 04 0B 00 FF",
+        "Gain_set": "81 01 04 0C 00 FF",
+        "Black_set": "81 01 7E 04 15 00 FF'",
+        "Shutter_set": "81 01 04 0A 00 FF",
+        "R_GAIN_set":  "81 01 04 03 00 FF",
+        "B_GAIN_set": "81 01 04 04 00 FF",
+        "Hue_set": "81 01 7E 01 2E 00 00 FF",
+        "Saturation_set ": "81 01 04 09 00 FF",
+        "COLOR_PHASE_set": "81 01 04 0F 00 FF",
+        "R_G_set": "81 09 7E 01 7A 06 03 FF",
+        "R_B_set": "81 01 7E 01 7B 06 03 FF",
+        "G_R_set": "81 01 7E 01 7C 06 03 FF",
+        "G_B_set": "81 01 7E 01 7D 06 03 FF",
+        "B_R_set": "81 01 7E 01 7E 06 03 FF",
+        "B_G_set": "81 01 7E 01 7F 06 03 FF",
+        "GAMMA_MODE_set ": "81 01 04 5B 00 FF"
+        
+      }
+    
+    }
+    
+    ]
+}
